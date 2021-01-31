@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: Krisys Loan Calculator
-Plugin URI: 
-Description: A loan calculator
+Plugin URI: https://github.com/dayton-outar/krisys-loan-calculator
+Description: Yet another loan calculator
 Version: 1.0.0
 Author: Dayton Outar
-Author URI: 
+Author URI: https://jm.linkedin.com/in/dayton-outar-a4758143
 License: GPLv2 or later
 Text Domain: krisys-loan-calculator
 */
